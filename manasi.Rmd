@@ -1,0 +1,13 @@
+---
+title: "Manasi Anand"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- I am a PhD Student at Cornell University
+- I study the institutional, livelihood, and carbon dynamics of forests
+- I love animals
