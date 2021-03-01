@@ -1,0 +1,17 @@
+---
+title: "Luc"
+# author: "Luc Esprabens"
+# date: "2/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Unordered list of facts about Luc
+* I am from Los Angeles, CA.
+* I did my undergraduate degree at UC San Diego.
+* Here, at Cornell, I'm studying environmental and development economics.
+
+
