@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1) Manasi Anand
 
-https://github.com/therkildsen-class/ntres-6100-Manasi6594
+https://github.com/Manasi6594
 
 2) Luc Esprabens
 
